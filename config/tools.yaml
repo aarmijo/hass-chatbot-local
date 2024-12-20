@@ -1,0 +1,7 @@
+local:
+  duckduckgo: {}
+  weather: {}
+  hass_action: {}
+  heating_time: {}
+llamahub:
+  wikipedia.WikipediaToolSpec: {}
