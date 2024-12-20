@@ -36,14 +36,11 @@ version = "^6.3.5"
 [tool.poetry.dependencies.llama-index-tools-wikipedia]
 version = "^0.3.0"
 
-[tool.poetry.dependencies.llama-index-llms-openai]
-version = "^0.3.2"
+[tool.poetry.dependencies.llama-index-llms-ollama]
+version = "0.5.0"
 
-[tool.poetry.dependencies.llama-index-embeddings-openai]
-version = "^0.3.1"
-
-[tool.poetry.dependencies.llama-index-agent-openai]
-version = "^0.4.0"
+[tool.poetry.dependencies.llama-index-embeddings-ollama]
+version = "0.5.0"
 
 [tool.poetry.group]
 [tool.poetry.group.dev]
